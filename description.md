@@ -10,9 +10,9 @@ El resultado de programar es justamente.... ¡un programa!: una descripción de 
 
 Es bastante evidente que, entonces, para programar necesitamos:
 
-1 Pensar el programa: idear una solución al problema
-1 Escribir el programa: escribir la solución en un idioma que tanto el humano como la máquina pueden entender - **el lenguaje de programación**
-1 Probar el programa: asegurarnos de alguna forma que éste haga lo que debe (¡porque podríamos habernos equivocado en cualquiera de los pasos anteriores!)
+1. Pensar el programa: idear una solución al problema
+1. Escribir el programa: escribir la solución en un idioma que tanto el humano como la máquina pueden entender - **el lenguaje de programación**
+1. Probar el programa: asegurarnos de alguna forma que éste haga lo que debe (¡porque podríamos habernos equivocado en cualquiera de los pasos anteriores!)
 
 En esta guía aprenderemos sobre las dos primeras cosas: para ello aprenderemos a usar un tablero de bolitas que nos servirá para dar nuestros primeros pasos pensando programas, y la sintaxis básica (las reglas del idioma) del lenguaje Ruby.
 
