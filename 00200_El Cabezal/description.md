@@ -1,4 +1,4 @@
-Como notaste en el ejercicio anterior, el tablero generado tenía una celda marcada:
+Como notaste en el ejercicio anterior, el tablero generado tenía una **celda** marcada:
 
 ![3x3h](https://raw.githubusercontent.com/mumuki/mumuki-fundamentos-ruby-stones-guia-1-primeros-programas/master/3x3h.png)
 
