@@ -4,9 +4,9 @@ Todo programa tiene exactamente un `main`: una sección del código que declara 
 
 La sintaxis de un `main` es bastante simple:
 
-1 escribimos una línea (renglón) que diga `def main`
-1 a continuación, cero o más instrucciones: una instrucción por línea
-1 y finalmente, una última línea `end`
+1. escribimos una línea (renglón) que diga `def main`
+1. a continuación, cero o más instrucciones: una instrucción por línea
+1. y finalmente, una última línea `end`
 
 Algunos ejemplos de `main`s:
 
