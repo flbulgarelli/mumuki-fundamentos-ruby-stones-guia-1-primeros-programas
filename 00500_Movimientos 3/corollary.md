@@ -11,9 +11,11 @@ end
 ```
 
 ```ruby
+def main
   move! east
   move! south
   move! east
+end
 ```
 
 Moraleja: ¡No hay una sóla forma de resolver un problema!
