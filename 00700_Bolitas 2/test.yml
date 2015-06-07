@@ -1,0 +1,10 @@
+examples:
+ - initial_board: |
+     GBB/1.0
+     size 5 2
+     head 3 1
+   final_board: |
+     GBB/1.0
+     size 5 2
+     cell 3 3 Rojo 3 Verde 1 Azul 1
+     head 3 1
