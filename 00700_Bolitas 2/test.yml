@@ -6,5 +6,5 @@ examples:
    final_board: |
      GBB/1.0
      size 5 2
-     cell 3 3 Rojo 3 Verde 1 Azul 1
+     cell 3 1 Rojo 3 Verde 1 Azul 1
      head 3 1
