@@ -12,7 +12,6 @@ def main
 end
 ```
 
-
 ```ruby
 def main
   push! red
