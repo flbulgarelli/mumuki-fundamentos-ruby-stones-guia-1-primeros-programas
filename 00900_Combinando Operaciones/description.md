@@ -1,14 +1,12 @@
 Ahora que conocemos a `push!` y `move!`, que nos sirven para controlar al cabezal, estamos en condiciones de combinar a estas dos operaciones.
 
-Por ejemplo el siguiente programa coloca una bolita roja en la posición inicial, una negra al este, y una verde al noroeste.
+Por ejemplo el siguiente programa coloca una bolita roja en la posición inicial y una negra al este.
 
 ```ruby
 def main
   push! red
   move! east
   push! black
-  move! north
-  push! green
 end
 ```
 
